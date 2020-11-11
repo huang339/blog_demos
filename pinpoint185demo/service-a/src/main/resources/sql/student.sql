@@ -1,3 +1,0 @@
-CREATE DATABASE demo;
-USE demo;
-CREATE TABLE student (id INT(11), name VARCHAR(128));

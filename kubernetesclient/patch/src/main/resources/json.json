@@ -1,7 +1,0 @@
-[
-  {
-    "op":"replace",
-    "path":"/spec/template/spec/terminationGracePeriodSeconds",
-    "value":27
-  }
-]

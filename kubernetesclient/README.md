@@ -1,3 +1,0 @@
-# kubernetesclient
-
-kubernetesclient demo
